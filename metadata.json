@@ -1,0 +1,6 @@
+{
+  "name": "SkillLens AI",
+  "description": "Resume–Job Skill Matching and Gap Analyzer aligned with SDG 8 (Decent Work and Economic Growth). Features OpenCV hardcopy intake, ESCO taxonomy mapping, evidence-weighted skill scoring, and actionable learning pathways.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
